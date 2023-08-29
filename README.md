@@ -1,5 +1,5 @@
 # maven-project
 
 Simple Maven Project
-good
+good day
 <br
